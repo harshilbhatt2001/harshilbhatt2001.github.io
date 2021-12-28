@@ -3,9 +3,9 @@ title: "Wireless Sensor Networks for Optimisation of Search and Rescue Managemen
 collection: publications
 permalink: /publication/2021-08-21-wsn-optm-sandr-flood-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'IEEE CONECCT 2021'
-paperurl: 'https://arxiv.org/abs/2108.09569'
+date: 2021-08-21
+venue: 'International Conference on Electronics, Computing and Communication Technologies, CONECCT'
+paperurl: 'https://ieeexplore.ieee.org/document/9622534'
 # citation: 'Harshil Bhatt, Pranesh G, Samarth Shankar, Shriyash Haralikar'
 ---
 **Harshil Bhatt**, *Pranesh G, Samarth Shankar, Shriyash Haralikar*<br><br>
